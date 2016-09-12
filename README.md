@@ -1,6 +1,6 @@
 # ezz-u-mey
 
-<!DOCTYPE html> 
+<!DOCTYPE>
 <html> 
 
 <head> Esmeralda </head> 
